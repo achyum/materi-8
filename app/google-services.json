@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709612067772",
+    "firebase_url": "https://materi8-e3eff.firebaseio.com",
+    "project_id": "materi8-e3eff",
+    "storage_bucket": "materi8-e3eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709612067772:android:cecd63550dd1ed42",
+        "android_client_info": {
+          "package_name": "com.example.materi8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709612067772-2d9nrubo9bq2il2jhoag6fdm52t5a9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpcuOTM5wwMWIqZsaOR3fWGvgO_m-Xfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709612067772-2d9nrubo9bq2il2jhoag6fdm52t5a9b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
